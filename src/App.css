@@ -1,0 +1,27 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 600px;
+}
+/* .deleteicon {
+  width: 30px;
+  margin: 5px auto;
+  background-color: rgba(220, 53, 69, 1);
+  color: white;
+  padding: 4px 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+} */
+
+.ouralert {
+  margin: 5px auto;
+  /* margin-top: 20px; */
+}
